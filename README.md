@@ -24,7 +24,7 @@ The objective of this test is to develop a data ingestion pipeline using Python,
 ### Technical Requirements
 
 * Implement the solution in a Docker environment, using Docker Compose to orchestrate the necessary services.
-* Use only pure Python, without frameworks or dataframe libraries (such as Pandas, Polars, etc.).
+* Use only pure Python or SQL for data manipulation, without frameworks or libraries based on dataframes (such as Pandas, Polars, etc.). Utility and database access libraries are allowed.
 * The use of Apache Airflow for process automation is optional, but will be considered a differential.
 
 ### Submission
